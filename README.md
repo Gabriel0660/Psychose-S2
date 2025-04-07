@@ -1,9 +1,9 @@
 # 🌿Psychose-S2🌿
 Minecraft Modpack Namens Psychose für die TGI 11 &amp; Co. (2. Edition!)
 
-Freunde der Sonne, das ist die Repo für das Modpack selber.
-Ihr seid hier hoffentlich wegen dem Link auf der Website, wenn nd dann geht da drauf, weil dort weitere Anweisungen zu finden sind.
-
+Freunde der Sonne, das ist die Repo für das Modpack selber.  
+Ihr seid hier hoffentlich wegen dem Link auf der Website, wenn nd dann geht da drauf, weil dort weitere Anweisungen zu finden sind.  
+https://gabriel0660.github.io/  
 ## ⚠️GANZ WICHTIG⚠️
 Ich werde hier auf keine Issues antworten also hier keine öffnen. Wenn ihr Hilfe braucht dann fragt entweder in unserem Discord oder schreibt mir Privat.  
 
